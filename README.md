@@ -12,17 +12,17 @@ Bem-vindo ao **Magick IA**, um projeto que reúne cartas épicas, raras e comuns
 ## 📂 Estrutura do Projeto
 Magick-IA/
 │── src/
-│   ├── imagens/       # Contém as imagens das cartas
-│   ├── css/           # Contém os estilos do projeto
-│   │   ├── reset.css  # Reset de estilos
-│   │   ├── style.css  # Estilos principais
-│   │   ├── responsivo.css  # Estilos para dispositivos móveis
-│   ├── js/            # Contém os scripts do projeto
-│   │   ├── index.js   # Funcionalidade e interatividade
-│── index.html         # Página principal do projeto
-│── README.md          # Documentação do projeto
-│── LICENSE            # Licença do projeto
-│── .gitignore         # Arquivos a serem ignorados pelo Git
+│   ├── imagens/
+│   ├── css/
+│   │   ├── reset.css
+│   │   ├── style.css
+│   │   ├── responsivo.css
+│   ├── js/
+│   │   ├── index.js   
+│── index.html         
+│── README.md 
+│── LICENSE
+│── .gitignore
 
 ## 🎴 Funcionalidades
 
