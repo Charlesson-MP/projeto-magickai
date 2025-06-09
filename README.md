@@ -11,7 +11,6 @@ Bem-vindo ao **Magick IA**, um projeto que reúne cartas épicas, raras e comuns
 
 ## 📂 Estrutura do Projeto
 Magick-IA/
-
 │── src/  
 
 │   ├── imagens/  
