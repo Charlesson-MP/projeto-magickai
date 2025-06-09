@@ -10,30 +10,18 @@ Bem-vindo ao **Magick IA**, um projeto que reúne cartas épicas, raras e comuns
 - **Git/GitHub** para controle de versão
 
 ## 📂 Estrutura do Projeto
-Magick-IA/
-
-│── src/  
-
-│   ├── imagens/  
-
-│   ├── css/  
-
-│   │   ├── reset.css  
-
-│   │   ├── style.css  
-
-│   │   ├── responsivo.css  
-
-│   ├── js/  
-
-│   │   ├── index.js     
-
-│── index.html    
-
-│── README.md  
-
-│── LICENSE  
-
+Magick-IA/ <br>
+│── 📂 src/ <br>
+│   ├── 📂 imagens/ <br>
+│   ├── 📂 css/ <br>
+│   │   ├── reset.css <br>
+│   │   ├── style.css <br>
+│   │   ├── responsivo.css <br>
+│   ├── 📂 js/ <br>
+│   │   ├── index.js    
+│── index.html <br>
+│── README.md <br>
+│── LICENSE <br>
 │── .gitignore  
 
 ## 🎴 Funcionalidades
